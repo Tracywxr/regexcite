@@ -2,7 +2,7 @@ Package: regexcite
 Title: Simple String Splitting Helpers
 Version: 0.0.0.9000
 Authors@R: 
-    person("Tracy", "Wang", email = "wxrtracy@gmail.com", role = c("aut", "cre"))
+    person("Tracy", "Wang", ,"wxrtracy@gmail.com", role = c("aut", "cre"))
 Description: A toy R package that provides simplified functions for working with 
              strings, built for practice in DSCI 310. Contains a wrapper for 
              strsplit().
